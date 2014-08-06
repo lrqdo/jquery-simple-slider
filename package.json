@@ -5,6 +5,7 @@
   "version"         : "1.0.0",
   "homepage"        : "http://loopj.com/jquery-simple-slider",
   "keywords"        : [],
+  "main"            : "./js/simple-slider.js",
   "author"          : {
     "name"  : "James Smith",
     "email" : "james@loopj.com",
